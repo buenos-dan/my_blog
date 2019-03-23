@@ -6,4 +6,5 @@
 5. git push
 6. git pull
 7. git status
-8. 
+8. git branch:w
+9. 
