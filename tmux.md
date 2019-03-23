@@ -5,18 +5,28 @@ tmux是一个终端复用软件，它的一个直观的用处是通过一个终�
 sudo apt-get install tmux
 '''
 ## how to use?
-1.create a new tmux
+5. list shortcuts
+'''
+ctrl+b ?
+'''
+press q to quit
+1. create a new tmux
 '''
 tmux new -s name
 '''
-2.quit a tmux
+2. quit a tmux
 '''
 ctrl+b &
 '''
-3.login a tmux
+3. log in tmux
 '''
 tmux a -t name
 tumx attach
+'''
+4. split window 
+'''
+ctrl+b "
+ctrl+b %
 '''
 
 
