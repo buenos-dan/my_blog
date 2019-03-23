@@ -28,7 +28,7 @@ tumx attach
 ctrl+b "
 ctrl+b %
 ```
-
+6. using git on vscode
 
 
 
